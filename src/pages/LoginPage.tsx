@@ -1,4 +1,4 @@
-import { DemoForm, LoginForm } from "../components/forms";
+import { DemoForm, LoginForm } from "@/components/forms";
 
 export default function LoginPage() {
   return (
