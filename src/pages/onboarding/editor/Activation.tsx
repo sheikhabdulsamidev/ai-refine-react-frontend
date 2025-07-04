@@ -1,6 +1,6 @@
 "use client"
 
-import { EditorActivation } from "@/components/onboarding/editor-activation"
+import { EditorActivation } from "../../../components/onboarding/editor-activation"
 
 export default function ActivatePage() {
   // In a real app, this data would come from the user's profile in the database

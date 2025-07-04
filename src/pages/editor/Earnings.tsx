@@ -1,11 +1,11 @@
 "use client"
 
-import { Card } from "@/components/ui/card"
-import { Button } from "@/components/ui/button"
-import { Badge } from "@/components/ui/badge"
-import { LineChart } from "@/components/ui/chart"
+import { Card } from "../../components/ui/card"
+import { Button } from "../../components/ui/button"
+import { Badge } from "../../components/ui/badge"
+import { LineChart } from "../../components/ui/chart"
 import { PoundSterling, Download, Calendar, ArrowUpRight } from "lucide-react"
-import { DashboardLayout } from "@/components/layout/dashboard-layout"
+import { DashboardLayout } from "../../components/layout/dashboard-layout"
 
 const earningsData = [
   { month: "Jan", amount: 2500 },

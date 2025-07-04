@@ -1,8 +1,8 @@
 import React from "react";
-import UsageOverviewCard from "@/components/cards/CreditUsageOverviewCard";
-import { DashboardOverviewCard, JobStatusCounterCard } from "@/components/cards";
-import AllJobsTable from "@/components/table/AllJobsTable";
-import { DashboardLayout } from "@/components/layout/dashboard-layout";
+import UsageOverviewCard from "../../components/cards/CreditUsageOverviewCard";
+import { DashboardOverviewCard, JobStatusCounterCard } from "../../components/cards";
+import AllJobsTable from "../../components/table/AllJobsTable";
+import { DashboardLayout } from "../../components/layout/dashboard-layout";
 
 export default function BusinessDashboard() {
   return (

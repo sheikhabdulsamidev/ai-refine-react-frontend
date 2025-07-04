@@ -1,9 +1,9 @@
 "use client"
 
-import Link from "next/link"
-import { Card } from "@/components/ui/card"
-import { Button } from "@/components/ui/button"
-import { DashboardLayout } from "@/components/layout/dashboard-layout"
+import { Link } from "react-router-dom"
+import { Card } from "../../components/ui/card"
+import { Button } from "../../components/ui/button"
+import { DashboardLayout } from "../../components/layout/dashboard-layout"
 
 const availableJobs = [
   {

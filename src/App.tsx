@@ -1,5 +1,5 @@
 import { Routes, Route } from 'react-router-dom'
-import { Toaster } from "@/components/ui/sonner"
+import { Toaster } from "./components/ui/sonner"
 
 // Pages
 import LoginPage from './pages/LoginPage'
